@@ -1,0 +1,15 @@
+TeX
+*.zip
+*.tar.gz
+*.deb
+*.rpm
+*~
+Webfonts/*.woff
+Webfonts/*.svg
+Webfonts/*.eot
+Webfonts/*.css
+OTF/*.otf
+*.ttf
+Specimen/*.svg
+Sources/*.sfd-*
+
