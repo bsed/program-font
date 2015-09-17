@@ -9,3 +9,13 @@ We hope you enjoy Vera!
 
                         Bitstream, Inc.
 			The Gnome Project
+			
+10px
+
+set guifont=Bitstream_Vera_Sans_Mono:h9:cANSI
+set gfw=Yahei_Mono:h10:cGB2312
+
+10.5px
+
+set guifont=Bitstream_Vera_Sans_Mono:h10:cANSI
+set gfw=Yahei_Mono:h10.5:cGB2312
